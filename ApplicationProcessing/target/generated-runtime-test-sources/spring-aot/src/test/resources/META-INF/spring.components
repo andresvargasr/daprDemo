@@ -1,0 +1,4 @@
+#
+#Sun Sep 04 16:06:27 COT 2022
+com.example.applicationprocessing.ApplicationProcessingController=org.springframework.stereotype.Component
+com.example.applicationprocessing.ApplicationProcessingApp=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration

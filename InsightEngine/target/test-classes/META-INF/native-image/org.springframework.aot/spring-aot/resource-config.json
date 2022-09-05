@@ -1,0 +1,73 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": ".*.kotlin_builtins"
+      },
+      {
+        "pattern": "META-INF/.*.kotlin_module$"
+      },
+      {
+        "pattern": "META-INF/MANIFEST.MF"
+      },
+      {
+        "pattern": "META-INF/services/.*"
+      },
+      {
+        "pattern": "META-INF/spring.binders"
+      },
+      {
+        "pattern": "META-INF/spring.components"
+      },
+      {
+        "pattern": "^META-INF/build-info.properties"
+      },
+      {
+        "pattern": "^git.properties"
+      },
+      {
+        "pattern": "application.*.properties"
+      },
+      {
+        "pattern": "application.*.yaml"
+      },
+      {
+        "pattern": "application.*.yml"
+      },
+      {
+        "pattern": "application.properties"
+      },
+      {
+        "pattern": "banner.txt"
+      },
+      {
+        "pattern": "com/example/insightengine/InsightEngineApplication.class"
+      },
+      {
+        "pattern": "db/.*"
+      },
+      {
+        "pattern": "logging.properties"
+      },
+      {
+        "pattern": "messages/.*"
+      },
+      {
+        "pattern": "org/springframework/boot/logging/.*.properties"
+      },
+      {
+        "pattern": "org/springframework/boot/logging/.*.xml"
+      },
+      {
+        "pattern": "org/springframework/boot/logging/java/logging.properties"
+      },
+      {
+        "pattern": "org/springframework/nativex/hint/TypeAccess.class"
+      },
+      {
+        "pattern": "spring.properties"
+      }
+    ]
+  },
+  "bundles": []
+}
